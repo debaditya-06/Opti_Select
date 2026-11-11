@@ -1,0 +1,13 @@
+# Python environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Experiment JSON cache
+results/.cache/
+
+# Frontend dependencies and build output
+web/node_modules/
+web/dist/
+web/.vite/
